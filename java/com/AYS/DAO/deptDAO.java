@@ -1,4 +1,4 @@
-package com.AYS.DAO;
+package java.com.AYS.DAO;
 
 import com.AYS.common.DBConFactory;
 import com.AYS.entity.departments;
