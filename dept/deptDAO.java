@@ -1,4 +1,4 @@
-package com.AYS.DAO;
+package dept;
 
 import com.AYS.common.DBConFactory;
 import com.AYS.entity.departments;
