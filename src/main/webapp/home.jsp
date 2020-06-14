@@ -38,7 +38,7 @@
                <p>Departments</p>
                <ul class="dept-ul">
                    <%
-                 <%! deptDAO dd = new deptDAO(); %>
+                 deptDAO dd = new deptDAO();
                  List<Object> list = dd.List();
                  for(Object obj : list)
                  {
