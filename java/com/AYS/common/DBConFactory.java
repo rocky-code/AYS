@@ -1,4 +1,4 @@
-package com.AYS.common;
+package java.com.AYS.common;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
